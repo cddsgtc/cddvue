@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>shareTips</title>
+</head>
+<body>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores cumque deserunt esse fugiat in iste nihil
+  quaerat recusandae rem repudiandae.</p>
+<script>
+  var d = document;
+  var str ="";
+  var tip = function(){
+    str = window.getSelection();
+    d.onmouseup=function(){
+      if(str!=''){
+        alert(str);
+      }
+    };
+  }();
+</script>
+</body>
+</html>

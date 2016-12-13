@@ -1,0 +1,1268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mer",
+				"merchM"
+			],
+			[
+				"ser",
+				"serviceM"
+			],
+			[
+				"re",
+				"required	Attr"
+			],
+			[
+				"stu",
+				"student.lastname"
+			],
+			[
+				"cont",
+				"containWidth"
+			],
+			[
+				"con",
+				"containWidth"
+			],
+			[
+				"get",
+				"getBanner"
+			],
+			[
+				"banner",
+				"bannerContain"
+			],
+			[
+				"a",
+				"angularPractice.html"
+			],
+			[
+				"br",
+				"browserSync"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"skew",
+				"skewX()"
+			],
+			[
+				"al",
+				"alternate"
+			],
+			[
+				"webkit",
+				"webkit-radial-gradient"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"img",
+				"image"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "workshop/package.json",
+			"settings":
+			{
+				"buffer_size": 637,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "workshop/index1.html",
+			"settings":
+			{
+				"buffer_size": 711,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "workshop/test/test.js",
+			"settings":
+			{
+				"buffer_size": 6974,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 232,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "workshop/test/test-window.html",
+			"settings":
+			{
+				"buffer_size": 1012,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Nodejs/Nodejs.sublime-build",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Nodejs/Nodejs.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"update",
+				"Emmet: Update Image Size"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git di",
+				"Git: Diff All Files"
+			],
+			[
+				"gitgutter",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"gitgutter d",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git l",
+				"Git: Log All"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"md",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"colorsubl",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"htzh",
+				"Snippet: htzh"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"bower",
+				"Bower: Configure project"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"HTZH",
+				"Snippet: htzh"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"zh",
+				"Snippet: htzh"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"move p",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"css3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git rep",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"sumbli",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"",
+				"CSS Less-ish: Compile"
+			],
+			[
+				"package ",
+				"Package Control: Discover Packages→搜索插件"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"c",
+				"Build: Cancel"
+			],
+			[
+				"web",
+				"View: Toggle Side Bar"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"Package Control: inta",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 145.0,
+		"history":
+		[
+			"FindKeyConflicts",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/I/project/project_with_webpack_vue_on_git",
+		"/I/project/project_with_webpack_vue_on_git/public"
+	],
+	"file_history":
+	[
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/chanjet.html",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/merchOperation/merchM/merchUser.html",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/js/main.js",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/merchOperation/sub/accountDetail.html",
+		"/H/Sublime Text 3x64/Data/Packages/User/Preferences.sublime-settings",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/merchOperation/sub/merchAddNew.html",
+		"/H/Sublime Text 3x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/merchOperation/sub/merchChange.html",
+		"/H/Sublime Text 3x64/Data/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/H/Sublime Text 3x64/Data/Packages/DocBlockr/README.md",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/js/controllers/merchOperation/merchM.js",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/tpl/sidebar.html",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/merchOperation/sub/serviceM/serviceM.html",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/sass/merchOperation/merchM.scss",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/index.html",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/merchOperation/merchM/merchList.html",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/merchOperation/sub/merchLD.html",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/merchOperation/sub/serviceM/applyService.html",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/css/extra.css",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/merchOperation/sub/serviceM/merchApply.html",
+		"/H/Sublime Text 3x64/Data/Packages/User/GitGutter.sublime-settings",
+		"/H/Sublime Text 3x64/Data/Packages/GitGutter/GitGutter.sublime-settings",
+		"/H/Sublime Text 3x64/Data/Packages/Git/Git.sublime-settings",
+		"/H/Sublime Text 3x64/Data/Packages/GitGutter/Default (Windows).sublime-keymap",
+		"/H/Sublime Text 3x64/Data/Packages/User/Git.sublime-settings",
+		"/H/Sublime Text 3x64/Data/Packages/GoSublime/GoSublime.sublime-settings",
+		"/H/Sublime Text 3x64/Data/Packages/User/GoSublime.sublime-settings",
+		"/H/Sublime Text 3x64/Data/Packages/GoSublime/USAGE.md",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/merchOperation/merchM/merchVerify.html",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/js/controllers/channel/channelUpdate.js",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/channel/channelUpdate.html",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/test.demo/表格模板.html",
+		"/H/Sublime Text 3x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/js/controllers/taskLedger.js",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/test.demo/channelUpdateData.json",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/channel/sub/changeChannel-step2.html",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/channel/sub/channelDetails.html",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/channel/sub/addAgentService.html",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/channel/sub/changeChannel-step3.html",
+		"/C/Users/CDD/Desktop/test.js",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/js/controllers/channel/addChannel.js",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/accountService/ledgerManagement/ledgerManagement.html",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/channel/sub/changeChannel-step1.html",
+		"/H/Program Files/Adobe_Photoshop_CC_64Bit/安装说明.txt",
+		"/C/Users/CDD/Desktop/九牛test.js",
+		"/C/Users/CDD/Desktop/learngit/新建文本文档.txt",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/1.txt",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/test.demo/fromat.js",
+		"/C/Users/CDD/Desktop/readme.md",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/js/scripts/tableOperation.js",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/channel/addChannel.html",
+		"/I/document/others/直播监控/直播监控/直播管理.html",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/test/表格模板.html",
+		"/I/project/operationPlat-web/operationPlat-web/adminVip/views/channel/details",
+		"/H/phpStudy/nginx/conf/nginx.conf",
+		"/I/document/work/operationPlat-web/operationPlat-web/fis3Angular椤圭洰鍙戝竷璇存槑.txt",
+		"/C/Users/cdd/Desktop/sousuo.html",
+		"/E/MyNotes/gulpfile.js",
+		"/E/MyNotes/package.json",
+		"/E/web/笔记/bookNonte/论道H5笔记",
+		"/E/documents/老师资料/NGproject/d1/js/index.js",
+		"/E/web/笔记/6月 24日第三天",
+		"/E/web/homework/testCarousel.html",
+		"/E/web-front-end-git/test.txt",
+		"/E/web/笔记/bootstrap/宁浩网学习",
+		"/E/web/笔记/bootstrap/7月7日数组、关联、下标",
+		"/E/web/笔记/bootstrap/7月8日",
+		"/C/Users/cdd/Desktop/angular-route-demo-master/angular-route-demo-master/demo002/post.html",
+		"/C/Users/cdd/Desktop/angular-route-demo-master/angular-route-demo-master/demo002/post-id.html",
+		"/C/Users/cdd/Desktop/angular-route-demo-master/angular-route-demo-master/demo002/post.js",
+		"/C/Users/cdd/Desktop/angular-route-demo-master/angular-route-demo-master/demo002/index.js",
+		"/C/Users/cdd/Desktop/angular-route-demo-master/angular-route-demo-master/demo002/index.html",
+		"/E/web/笔记/classNote/6月26日项目第二天",
+		"/E/documents/老师资料/angular/5-1.html",
+		"/E/web/homework/assetes/bkf/iconfont.css",
+		"/E/web/homework/assetes/bkf/ux_1468057206_737269/iconfont.css",
+		"/E/web/homework/assetes/bkf/ux_1468057206_737269/demo.css",
+		"/E/myProject/assets/bkf/iconfont.css",
+		"/E/myProject/assets/bkf/demo.css",
+		"/E/web-front-end-git/gitskills/README.md",
+		"/E/web-front-end-git/practice.js",
+		"/E/web-front-end-git/id_rsa.pub",
+		"/E/web-front-end-git/practice.html",
+		"/E/web/homework/田野之家/index.html",
+		"/E/web/笔记/bootstrap/邮箱地址正则表达式",
+		"/E/web/笔记/angular/6月29日",
+		"/E/web/笔记/classNote/7月3日bootstrap and jQuery",
+		"/E/web/笔记/classNote/6月25日项目",
+		"/E/web/笔记/百度地图学习",
+		"/E/web/笔记/classNote/7月4日",
+		"/E/web/笔记/classNote/php",
+		"/C/Users/cdd/Desktop/test.php",
+		"/C/Users/cdd/Desktop/project/about.html",
+		"/C/Users/cdd/Desktop/project/service.html",
+		"/C/Users/cdd/Desktop/project/gallery.html",
+		"/C/Users/cdd/Desktop/project/contact.html",
+		"/D/QQPCmgr/Temp/fz3temp-1/index.html",
+		"/E/web/homework/exam/index.html",
+		"/C/Users/cdd/Desktop/project/index.html",
+		"/E/web/homework/exam/css/index.css",
+		"/D/QQPCmgr/Temp/Temp1_angular.js-master.zip/angular.js-master/README.md",
+		"/E/documents/老师资料/index.html",
+		"/D/用户目录/下载/iconfont (1)/ux_1467619922_9643254/demo.css",
+		"/D/用户目录/下载/iconfont (1)/ux_1467619922_9643254/iconfont.css",
+		"/C/Users/cdd/Desktop/geo.html",
+		"/E/web/笔记/gulp/gulp注意点补充",
+		"/D/用户目录/下载/initializr-verekia-4.0/initializr/index.html",
+		"/D/用户目录/下载/h5bp-html5-boilerplate-v4.1.0-0-gaa9bcbe/h5bp-html5-boilerplate-3cd1967/index.html",
+		"/E/web-front-end-git/LICENSE.LICENSE",
+		"/E/dist1/dist/template.html",
+		"/E/web/笔记/angular/test.html",
+		"/E/documents/老师资料/06-21/css/bootstrap.css",
+		"/C/Users/cdd/myproject/config.rb",
+		"/E/documents/老师资料/06-21/1-2.html",
+		"/E/documents/老师资料/06-21/1-1.html",
+		"/E/web/笔记/bootstrap/#6月23日 bootstrap",
+		"/E/web/笔记/bootstrap/#6月22日bootstrap第二天",
+		"/E/web/笔记/sass/sass笔记",
+		"/C/Users/cdd/Desktop/test.html",
+		"/E/web/homework/exam/js/show.js",
+		"/E/web/homework/exam/js/shops.js",
+		"/E/web/homework/exam/js/bottomTurn.js",
+		"/E/tools/slick-1.6.0/slick-1.6.0/slick/slick.js",
+		"/E/tools/slick-1.6.0/slick-1.6.0/slick/slick.min.js",
+		"/E/tools/slick-1.6.0/slick-1.6.0/slick.jquery.json",
+		"/E/tools/slick-1.6.0/slick-1.6.0/bower.json",
+		"/E/tools/slick-1.6.0/slick-1.6.0/package.json",
+		"/D/sublime_text3/Sublime Text 3x64/Data/Packages/Emmet/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 156.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bold",
+			"font_weight",
+			"font",
+			"弹出框",
+			"试图弹出框",
+			"input[type=text name] ",
+			"<div class=\"col-md-6\">",
+			"class=\"col-md-3 control-label",
+			"form-group",
+			"ng-view",
+			"ui-view",
+			"-col-md12",
+			"div-col-md-12",
+			"DRate",
+			"class=\"col-md-1\"",
+			"10",
+			"4",
+			"onlin",
+			"td",
+			"d",
+			"button",
+			"\\",
+			"merchList",
+			"clert",
+			"text",
+			"自动结算",
+			"先下结算",
+			"线上结算",
+			">\n",
+			"th> 渲染引擎 </th>\n                        <th> 浏览器 </th>\n                        <th> 操作系统 </th>\n                        <th> 引擎版本 </th>\n                        <th> CSS 级 </th>",
+			">*",
+			"from",
+			"From",
+			"text",
+			"自动",
+			"先下结算",
+			"信用卡",
+			"借记卡",
+			"cardType",
+			"对私",
+			"对公",
+			"对工",
+			"accountName",
+			"accountType",
+			"开户名称",
+			"comporationType",
+			"district",
+			"\"officalName",
+			"mostFakerNo",
+			"contractNo",
+			">*",
+			"remark",
+			"clerk",
+			"<tr",
+			"techSupport",
+			"districtTeam",
+			"fundRegister",
+			"mailNo",
+			"邮编",
+			"email",
+			"电子邮箱",
+			"fax",
+			"componenyTel",
+			"公司电话",
+			"phoneNo",
+			"linkMan",
+			"mostFakerNo",
+			"contractNo",
+			"1000万",
+			"officalName",
+			"mostFakerNo",
+			"channelNo",
+			"contractNo",
+			">span",
+			">*",
+			"*",
+			"\"></",
+			"container",
+			"th",
+			"th ",
+			"th",
+			"d",
+			"<td>\n                    </td>",
+			"</td>\n                    <td>",
+			"Next",
+			"Previous",
+			"previous",
+			"<a href=\"\" class=\"btn btn-default\">修改</a>",
+			"sample_editable_1",
+			"id=\"datatable",
+			"datatable",
+			"datatablesTi",
+			"datatablest",
+			"record",
+			"多功能表格",
+			"多功能",
+			"\\",
+			"iconfont",
+			"font/",
+			">\n",
+			"_POST",
+			"_get",
+			"enter",
+			"\"/>\n",
+			"modal",
+			"*",
+			"、",
+			"lorem",
+			"span",
+			"i",
+			"^6月22日",
+			"6月22日",
+			"$",
+			"5px",
+			"img",
+			"div",
+			"1280",
+			"get-e(50)",
+			"1280",
+			"onmouseover='getBanner(this)'",
+			" onmouseover='getBanner(this)'",
+			"onmouseover='getBanner(this)'",
+			"textarea",
+			"current",
+			"copy-html",
+			">\n",
+			"上述事件放置到元素标签中，使用js添加操作函数",
+			"    -["
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			">\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "workshop/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "workshop/index1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "workshop/test/test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6799,
+								6799
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 5832.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "workshop/test/test-window.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-output":
+	{
+		"height": 126.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 126.0
+	},
+	"output.exec":
+	{
+		"height": 78.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "vueAndWebpack.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"operationPlat-web\\adminVip\\js\\main.js"
+			],
+			[
+				"side",
+				"operationPlat-web\\adminVip\\tpl\\sidebar.html"
+			],
+			[
+				"merchm",
+				"operationPlat-web\\adminVip\\js\\controllers\\merchOperation\\merchM.js"
+			],
+			[
+				"mark",
+				"笔记\\classNote\\markdown"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"I:\\project\\operationPlat-web\\operationPlat-web\\operationPlat-web.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

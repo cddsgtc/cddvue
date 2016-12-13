@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>storageEvent</title>
+</head>
+<body>
+<h4>storage的信息是：</h4>
+<span id="info"></span>
+<script>
+  var d = document;
+  var $ = function(id){
+    return d.getElementById(id);
+  };
+  window.onstorage = getInfo;
+  function getInfo(){
+    var str = '';
+    for (var i in localStorage){
+      str += i+':'+localStorage[i]+' ';
+    }
+    $('info').innerHTML=str;
+  }
+  getInfo();
+
+</script>
+</body>
+</html>

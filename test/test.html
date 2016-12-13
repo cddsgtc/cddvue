@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>test</title>
+  <script src="https://cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+</head>
+<body>
+<button class="btn">换</button>
+<img class='img' src="A.jpg" alt="图片">
+<script>
+  var change = function(){
+      var isA = true;
+      return function(){
+        $('.btn').click(function(){
+          if(isA){
+            $('.img').attr('src','B.jpg');
+          }else{
+            $('.img').attr('src','A.jpg');
+          }
+          isA = !isA;
+        })
+      }
+  }();
+  change();
+
+</script>
+
+</body>
+</html>
