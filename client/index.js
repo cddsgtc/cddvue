@@ -1,5 +1,2 @@
-import './css/main.css';
-import "./promise.polyfill";
-import {a} from './test';
-console.log(a);
-
+import './pormise.polyfill';
+console.log(Promise);
