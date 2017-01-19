@@ -7,4 +7,4 @@
 3. 时时预览
 4. es6支持
 
-欢迎访问:http://farmerz.birdteam.net
+欢迎访问我的个人网址，点击[这里](http://farmerz.birdteam.net)
