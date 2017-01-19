@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/project_with_webpack_vue.iml" filepath="$PROJECT_DIR$/.idea/project_with_webpack_vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project_with_webpack_vue_on_git.iml" filepath="$PROJECT_DIR$/.idea/project_with_webpack_vue_on_git.iml" />
     </modules>
   </component>
 </project>

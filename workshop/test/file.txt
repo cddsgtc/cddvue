@@ -1,7 +1,0 @@
-这是一个文件
-this is a file
-123
-1 2 3
-a b c
-A B C
-ABC
