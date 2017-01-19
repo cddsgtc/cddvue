@@ -1,2 +1,2 @@
-import './pormise.polyfill';
+import './promise.polyfill';
 console.log(Promise);
