@@ -6,8 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config build/prod.js --profile --progress --color",
-    "dev": "webpack --config build/dev.js --profile --progress --color --watch",
-    "server": "cd dist && browser-sync start --files \"index.html\" --index \"index.html\" --port 8024 --server"
+    "compile": "webpack --config build/dev.js --profile --progress --color --watch",
+    "server": "cd dist && browser-sync start --files \"index.html\" --index \"index.html\" --port 8024 --server",
+    "dev":"yarn compile | compass watch | yarn server"
   },
   "author": "cdd",
   "license": "ISC",
