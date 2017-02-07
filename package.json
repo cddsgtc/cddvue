@@ -8,7 +8,7 @@
     "build": "webpack --config build/prod.js --profile --progress --color",
     "compile": "webpack --config build/dev.js --profile --progress --color --watch",
     "server": "cd dist && browser-sync start --files \"index.html\" --index \"index.html\" --port 8024 --server",
-    "dev":"yarn compile | compass watch | yarn server"
+    "dev": "yarn compile | compass watch | yarn server"
   },
   "author": "cdd",
   "license": "ISC",
@@ -38,7 +38,7 @@
     "url-loader": "^0.5.7",
     "vue-loader": "^10.0.2",
     "vue-template-compiler": "2.1.9",
-    "webpack": "2.2.0-rc.7",
+    "webpack": "^2.2.1",
     "webpack-dev-middleware": "^1.9.0",
     "webpack-hot-middleware": "^2.15.0",
     "webpack-merge": "^2.4.0"
