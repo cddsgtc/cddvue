@@ -12,6 +12,10 @@
   },
   "author": "cdd",
   "license": "ISC",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/cddsgtc/cddvue"
+  },
   "dependencies": {
     "jquery": "^3.1.1",
     "promise-polyfill": "^6.0.2",
