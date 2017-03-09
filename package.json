@@ -1,6 +1,6 @@
 {
   "name": "cddvue",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "webpack2.x+vue2.x的脚手架",
   "main": "client/index.js",
   "scripts": {
