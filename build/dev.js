@@ -3,7 +3,7 @@ const webpack = require('webpack'),
   webpackMerge = require('webpack-merge'),
   friendErrors = require('friendly-errors-webpack-plugin');
 
-let config = function () {
+module.exports = function () {
   return webpackMerge(commonConfig(), {
     // entry: {
     //   client: './client/index.js'
@@ -16,9 +16,9 @@ let config = function () {
         }
       }),
       // new webpack.HotModuleReplacementPlugin(),
-      new webpack.NoErrorsPlugin(),
+      // new webpack.NoErrorsPlugin(),
+      new webpack.NoEmitOnErrorsPlugin(),
       new friendErrors()
     ]
   })
-}();
-module.exports = config;
+};

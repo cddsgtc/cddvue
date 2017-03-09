@@ -16,7 +16,7 @@ module.exports = function () {
       path: path.join(__dirname, '../dist'),
       filename: '[name].js?[hash:8]',
       publicPath: '',
-      sourceMapFilename: '[name].map?[hash:8]'
+      sourceMapFilename: '[name].map?[chunkhash:8]'
     },
     resolve: {
       alias: {
@@ -52,13 +52,17 @@ module.exports = function () {
     plugins: [
       // new ForKCheckerPlugin(),
       new ExtractTextPlugin({
-        filename: 'bundle.css',
+        filename: '[name].bundle.css',
         disable: false,
         allChunks: true
       }),
       new copyWebpack([{
         from: './client/img/**/*',
-        to: './assets/media/[name].[ext]'
+        to: './assets/media/[name].[ext]?[hash:8]'
+      }]),
+      new copyWebpack([{
+        from: './client/data/**/*',
+        to: './assets/data/[name].[ext]'
       }]),
       new webpack.optimize.CommonsChunkPlugin({
         names: ['vendor', 'manifest']
