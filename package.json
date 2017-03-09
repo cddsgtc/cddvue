@@ -6,20 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config build/prod.js --profile --progress --color",
-    "compile": "webpack --config build/dev.js --profile --progress --color --watch",
+    "comp": "webpack --config build/dev.js --profile --progress --color --watch",
     "server": "cd dist && browser-sync start --files \"manifest.js\" --index \"index.html\" --port 8024 --server",
     "dev": "yarn compile | compass watch | yarn server"
   },
   "author": "cdd",
   "license": "ISC",
-  "repository":{
-    "type":"git",
-    "url":"https://github.com/cddsgtc/cddvue"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cddsgtc/cddvue"
   },
   "dependencies": {
     "jquery": "^3.1.1",
     "promise-polyfill": "^6.0.2",
-    "vue": "^2.1.9",
+    "vue": "^2.2.2",
     "vue-router": "^2.1.1",
     "vuex": "^2.1.1"
   },
@@ -41,7 +41,7 @@
     "to-string-loader": "^1.1.5",
     "url-loader": "^0.5.7",
     "vue-loader": "^10.0.2",
-    "vue-template-compiler": "2.1.9",
+    "vue-template-compiler": "^2.2.2",
     "webpack": "^2.2.1",
     "webpack-dev-middleware": "^1.9.0",
     "webpack-hot-middleware": "^2.15.0",
