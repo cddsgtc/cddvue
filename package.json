@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config build/prod.js --profile --progress --color",
     "comp": "webpack --config build/dev.js --profile --progress --color --watch",
-    "server": "cd dist && browser-sync start --files \"manifest.js\" --index \"index.html\" --port 8024 --server",
+    "server": "cd dist && browser-sync start --files \"manifest.js\" --index \"login.html\" --port 8024 --server",
     "dev": "yarn compile | compass watch | yarn server"
   },
   "author": "cdd",
@@ -17,16 +17,23 @@
     "url": "https://github.com/cddsgtc/cddvue"
   },
   "dependencies": {
+    "axios": "^0.15.3",
+    "babel-runtime": "^6.23.0",
     "jquery": "^3.1.1",
     "promise-polyfill": "^6.0.2",
     "vue": "^2.2.2",
+    "vue-cdd-validator": "^1.0.6",
     "vue-router": "^2.1.1",
     "vuex": "^2.1.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.6.1",
     "babel-core": "^6.21.0",
+    "babel-helper-vue-jsx-merge-props": "^2.0.2",
     "babel-loader": "^6.2.10",
+    "babel-plugin-syntax-jsx": "^6.18.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-plugin-transform-vue-jsx": "^3.4.2",
     "babel-polyfill": "^6.20.0",
     "babel-preset-env": "^1.1.8",
     "chalk": "^1.1.3",
