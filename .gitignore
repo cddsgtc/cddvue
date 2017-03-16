@@ -1,10 +1,12 @@
 node_modules
+.git
+.vscode
 *.log
 .DS_Store
 /dist
 .sass-cache
 .idea
 yarn.lock
-.yarn-integrity
 vueAndWebpack.sublime-project
 vueAndWebpack.sublime-workspace
+npm-debug.log
