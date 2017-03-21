@@ -10,8 +10,8 @@ module.exports = function () {
         entry: {
             vendor: ['vue', 'vuex', 'vue-router'],
             login: './client/login',
-            index: './client/index',
-            chanpay: './client/chanpay'
+            index: './client/index'
+            // chanpay: './client/chanpay'
         },
         output: {
             path: path.join(__dirname, '../dist'),
@@ -95,14 +95,14 @@ module.exports = function () {
                 template: path.join(__dirname, '../client/login.html'),
                 filename: 'login.html',
                 chunksSortMode: 'dependency'
-            }),
-            new HtmlWebpackPlugin({
-                inject: true,
-                chunks: ['chanpay', 'vendor', 'manifest'],
-                template: path.join(__dirname, '../client/chanpay.html'),
-                filename: 'chanpay.html',
-                chunksSortMode: 'dependency'
             })
+            // new HtmlWebpackPlugin({
+            //     inject: true,
+            //     chunks: ['chanpay', 'vendor', 'manifest'],
+            //     template: path.join(__dirname, '../client/chanpay.html'),
+            //     filename: 'chanpay.html',
+            //     chunksSortMode: 'dependency'
+            // })
         ]
     }
 };

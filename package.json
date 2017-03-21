@@ -1,13 +1,13 @@
 {
   "name": "cddvue",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "webpack2.x+vue2.x的脚手架",
   "main": "client/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config build/prod.js --profile --progress --color",
     "comp": "webpack --config build/dev.js --profile --progress --color --watch",
-    "server": "cd dist && browser-sync start --files \"manifest.js\" --index \"login.html\" --port 8024 --server",
+    "server": "cd dist && browser-sync start --files \"manifest.js\" --index \"index.html\" --port 8024 --server",
     "dev": "yarn compile | compass watch | yarn server"
   },
   "author": "cdd",
@@ -36,6 +36,8 @@
     "babel-plugin-transform-vue-jsx": "^3.4.2",
     "babel-polyfill": "^6.20.0",
     "babel-preset-env": "^1.1.8",
+    "babel-preset-latest": "^6.24.0",
+    "babel-preset-stage-1": "^6.22.0",
     "chalk": "^1.1.3",
     "copy-webpack-plugin": "^4.0.1",
     "css-loader": "^0.26.1",

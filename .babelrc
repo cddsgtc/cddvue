@@ -4,7 +4,9 @@
             "env", {
                 "modules": false
             }
-        ]
+        ],
+        "latest",
+        "stage-1"
     ],
     "plugins": [
         ["transform-runtime", {
